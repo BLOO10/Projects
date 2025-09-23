@@ -10,7 +10,8 @@ It’s mostly for  " practice and learning ", not a professional project.
 - **Data Cleaning**
   - Removed missing values
   - Fixed columns like *agent*, *company*, *country*
-  **Feature Engineering
+
+- **Feature Engineerng
 - Created a new column **`is_family`** to identify family bookings:  
   - 1 → Family (children > 0)  
   - 0 → Non-family  
