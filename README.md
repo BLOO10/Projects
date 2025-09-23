@@ -27,5 +27,12 @@ It’s mostly for  " practice and learning ", not a professional project.
 - Plotly
 
 
-THX
+## Run on Google Colab 🚀
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ulG-Igc4AeTY7fKHARQFaxjop-5bXHJG?usp=sharing)
+
+
+
 ______________________________
+## Acknowledgements 🙌
+Special thanks to the **GDG_Qassim** team for making the bootcamp inspiring and supportive.  
+ 
